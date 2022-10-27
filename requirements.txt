@@ -1,0 +1,9 @@
+Flask
+selenium
+requests
+transformers
+tensorflow-cpu
+beautifulsoup4
+pandas
+numpy
+gunicorn
